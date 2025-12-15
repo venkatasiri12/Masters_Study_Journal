@@ -36,6 +36,11 @@ Python is **not a system-level language** like C.
 ---
 
 
+![Alt text](cvsp.png)
+
+
+---
+
 ### 💸 The Cost of Abstraction
 
 Python supports versatile and flexible data structures:  
