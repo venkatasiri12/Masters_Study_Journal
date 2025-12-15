@@ -19,19 +19,21 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 ## Comparing **C vs Python**:
 
-**🖥️ C (Dennis Ritchie’s philosophy):**  
-⏭️ Manual memory management  
-⏭️ Low-level data handling  
-⏭️ Direct interaction with hardware  
+**⏭️ C (Dennis Ritchie’s philosophy):**  
+- Manual memory management  
+
+- Low-level data handling  
+
+- Direct interaction with hardware  
 
 ✅ Primarily used for system-level programming, operating systems, drivers, and performance-critical software.
 
-**🐍 Python:**  
-⏭️ Simpler programming language
+**⏭️ Python:**  
+- Simpler programming language
 
-⏭️ High-level abstractions → write less code, focus on logic 
+- High-level abstractions → write less code, focus on logic 
 
-⏭️ Runs on multiple layers of abstraction built over C  
+- Runs on multiple layers of abstraction built over C  
 
 
 ---
@@ -72,12 +74,6 @@ NumPy arrays are:
 💡**Homogeneous**  
 💡**Fixed-size** 
 💡**Optimized for numerical computation**  
-
-#### NumPy enables:  
-- Matrix operations  
-- Linear algebra  
-- Statistical computations  
-- Vectorized operations (no explicit loops)
 
 ⚠️ NumPy supports strings technically, but its true strength is **numeric computation**.
 
