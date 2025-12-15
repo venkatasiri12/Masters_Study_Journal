@@ -22,10 +22,10 @@ The intent is simple but deliberate: to make the **process of learning visible**
 
 This journal exists to:
 
-✨ Develop **deep conceptual clarity** instead of surface familiarity
-✨ Reinforce theory through **experimentation and iteration**
-✨ Practice **structured technical thinking and articulation**
-✨ Build a habit of **consistent, reflective learning**
+- ✨ Develop **deep conceptual clarity** instead of surface familiarity  
+- ✨ Reinforce theory through **experimentation and iteration**  
+- ✨ Practice **structured technical thinking and articulation**  
+- ✨ Build a habit of **consistent, reflective learning**
 
 Progress here is measured not by speed, but by understanding.
 
@@ -104,5 +104,6 @@ It is best read as a **process record**, not a showcase.
 ## 🚀 Status
 
 ✨ Actively maintained throughout my Master’s program
+
 ✨ Continuously evolving with new learnings
 > *“Progress compounds when learning is intentional and documented.”*
