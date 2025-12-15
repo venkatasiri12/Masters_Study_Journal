@@ -73,7 +73,9 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 NumPy arrays are:  
 💡**Homogeneous**  
+
 💡**Fixed-size** 
+
 💡**Optimized for numerical computation**  
 
 ⚠️ NumPy supports strings technically, but its true strength is **numeric computation**.
