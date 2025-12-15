@@ -1,5 +1,8 @@
-<p align="center">
+<p
+<center>
   <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&color=800080&lines=NUMPY" />
+</center>
+
 </p>
 
 
