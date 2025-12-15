@@ -8,7 +8,7 @@
 ---
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=📚Day 1;Why+Numpy+made+python;suitable+for+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=📚 Day 1;Why+Numpy+made+python;suitable+for+Machine+Learning" />
 </p>
 
 
