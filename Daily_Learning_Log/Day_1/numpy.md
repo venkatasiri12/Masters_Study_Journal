@@ -44,12 +44,13 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 ---
 
-### 💸 The Cost of Abstraction
+### ✨ The Cost of Abstraction
 
-Python supports versatile and flexible data structures:  
-✨ Lists, tuples, dictionaries, sets  
-✨ Even then, translating high-level Python code into machine instructions is time-consuming  
-✨ Pure Python becomes slow - while handling huge data 
+- Python supports versatile and flexible data structures like Lists, tuples, dictionaries, sets  
+
+- Even then, translating high-level Python code into machine instructions is time-consuming  
+
+- Pure Python becomes slow - while handling huge data 
 
 
 ---
@@ -58,10 +59,10 @@ Python supports versatile and flexible data structures:
 
 ### 💡 The Solution: NumPy
 
-**NumPy** bridges the gap between Python’s simplicity and C’s speed:
+✅ Not a built-in Python package 
 
-✅ Not a built-in Python package  
-✅ Implemented in **C and Fortran** → extremely fast  
+✅ Implemented in **C and Fortran**  
+
 ✅ Enables **Python to handle huge data fastly by Brings **C-level speed** to Python  **
 
 
@@ -83,10 +84,10 @@ NumPy arrays are:
 
 ### 🎯 Final Takeaway
 
-Python alone was too slow for Machine Learning.  
-
-**NumPy**:  
-- Brings **C-level speed** to Python  
+- Python alone was too slow for Machine Learning.
+  
+- **NumPy** bridges the gap between Python’s simplicity and C’s speed:
+  
 - Makes Python practical for **modern ML and Data Science**  
 
 ---
