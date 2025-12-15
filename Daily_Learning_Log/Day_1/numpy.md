@@ -8,7 +8,7 @@
 ---
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Why+Numpy+made+python+suitable+for+machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Why+Numpy+made+python;suitable+%7C+for+%7C+machine+Learning" />
 </p>
 
 ## 📚 Day 1: Why NumPy Made Python Practical for Machine Learning 🚀
