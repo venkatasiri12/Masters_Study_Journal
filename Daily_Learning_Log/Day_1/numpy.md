@@ -8,7 +8,7 @@
 ---
 <!-- Animated Typing Banner -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=📚+Day+1;Why+Numpy+made+python+suitable+for+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=📚+Day+1+14.12.2025;Why+Numpy+made+python+suitable+for+ML" />
 </p>
 
 
@@ -22,8 +22,6 @@ Initially, **Python** was considered a slow programming language, this made it u
 **⏭️ C (Dennis Ritchie’s philosophy):**  
 - Manual memory management  
 
-- Low-level data handling  
-
 - Direct interaction with hardware  
 
 ✅ Primarily used for system-level programming, operating systems, drivers, and performance-critical software.
@@ -32,8 +30,6 @@ Initially, **Python** was considered a slow programming language, this made it u
 - Simpler programming language
 
 - High-level abstractions → write less code, focus on logic 
-
-- Runs on multiple layers of abstraction built over C  
 
 
 ---
@@ -46,11 +42,11 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 ### ✨ The Cost of Abstraction
 
-- Python supports versatile and flexible data structures like Lists, tuples, dictionaries, sets  
+- Python supports versatile data structures like Lists, tuples, dictionaries, sets  
 
 - Even then, translating high-level Python code into machine instructions is time-consuming  
 
-- Pure Python becomes slow - while handling huge data 
+- Pure Python becomes slow - while handling huge data -> Because of this high layer of abstraction
 
 
 ---
@@ -77,8 +73,6 @@ NumPy arrays are:
 
 - **Fixed-size** 
 
-- **Optimized for numerical computation**  
-
 ⚠️ NumPy supports strings technically, but its true strength is **numeric computation**.
 
 
@@ -89,11 +83,11 @@ NumPy arrays are:
 
 - Python alone was too slow for Machine Learning.
   
-- **NumPy** bridges the gap between Python’s simplicity and C’s speed:
-  
-- Makes Python practical for **modern ML and Data Science**  
+- **NumPy** bridges the gap between Python’s simplicity and C’s speed => Making it suitable for machine learning
 
+  
 ---
+
 
 📌 This marks **Day 1** of my structured learning journey toward mastering **Machine Learning and Data Science**.
 
