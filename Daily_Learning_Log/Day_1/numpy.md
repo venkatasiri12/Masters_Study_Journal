@@ -72,11 +72,12 @@ Initially, **Python** was considered a slow programming language, this made it u
 ### 🔢 Why NumPy is a Mathematical Library
 
 NumPy arrays are:  
-💡**Homogeneous**  
 
-💡**Fixed-size** 
+- **Homogeneous**  
 
-💡**Optimized for numerical computation**  
+- **Fixed-size** 
+
+- **Optimized for numerical computation**  
 
 ⚠️ NumPy supports strings technically, but its true strength is **numeric computation**.
 
