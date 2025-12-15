@@ -1,6 +1,4 @@
-# Hi There, I'm Venkata Siri T 👋
-
-![Working on Laptop](./049380b8-85e2-4a7a-897e-44bf231d251b.png)
+# NUMPY
 
 ---
 
@@ -10,7 +8,9 @@
 
 Initially, **Python** was considered a slow programming language, especially for computation-heavy tasks. This made it unsuitable for **Machine Learning** and large-scale numerical computation in its early days.  
 
-Python is **not a system-level language** like C. Comparing **C vs Python**:
+Python is **not a system-level language** like C. 
+
+## Comparing **C vs Python**:
 
 **🖥️ C (Dennis Ritchie’s philosophy):**  
 - Manual memory management  
@@ -24,7 +24,9 @@ Python is **not a system-level language** like C. Comparing **C vs Python**:
 - High-level abstractions → write less code, focus on logic  
 - Runs on multiple layers of abstraction built over C  
 
+
 ---
+
 
 ### 💸 The Cost of Abstraction
 
@@ -37,7 +39,9 @@ But this flexibility comes at a cost:
 
 ❌ Python alone was unsuitable for **Machine Learning** and **scientific computing** where performance is critical.
 
+
 ---
+
 
 ### 💡 The Solution: NumPy
 
@@ -45,16 +49,20 @@ But this flexibility comes at a cost:
 
 - Not a built-in Python package  
 - Implemented in **C and Fortran** → extremely fast  
-- Enables **Python to handle large-scale numerical computation**  
+- Enables **Python to handle large-scale numerical computation**
 
-#### 🔢 Why NumPy is a Mathematical Library
 
-Centered around **N-dimensional arrays (`ndarray`)**, NumPy arrays are:  
+---
+
+
+### 🔢 Why NumPy is a Mathematical Library
+
+NumPy arrays are:  
 - **Homogeneous** – all elements share the same data type  
 - **Fixed-size** – defined at creation  
 - **Optimized for numerical computation**  
 
-NumPy enables:  
+#### NumPy enables:  
 - Matrix operations  
 - Linear algebra  
 - Statistical computations  
@@ -72,7 +80,9 @@ NumPy enables:
   - Data Analysis  
   - Scientific Computing in Python  
 
+
 ---
+
 
 ### 🎯 Final Takeaway
 
@@ -91,5 +101,4 @@ Python alone was too slow for Machine Learning.
 
 #### 🔗 Useful Badges (optional)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=apache%20spark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=apache%20spark&logoColor=white)
