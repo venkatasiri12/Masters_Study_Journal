@@ -5,7 +5,6 @@
 
 </p>
 
-
 ---
 
 ## 📚 Day 1: Why NumPy Made Python Practical for Machine Learning 🚀
@@ -71,8 +70,8 @@ But this flexibility comes at a cost:
 ### 🔢 Why NumPy is a Mathematical Library
 
 NumPy arrays are:  
-💡**Homogeneous** – all elements share the same data type  
-💡**Fixed-size** – defined at creation  
+💡**Homogeneous**  
+💡**Fixed-size** 
 💡**Optimized for numerical computation**  
 
 #### NumPy enables:  
@@ -82,18 +81,6 @@ NumPy arrays are:
 - Vectorized operations (no explicit loops)
 
 ⚠️ NumPy supports strings technically, but its true strength is **numeric computation**.
-
-
----
-
-
-### 🏗️ NumPy: The Foundation of the Data Science Stack
-
-- **Pandas** is built on NumPy, using `ndarray` internally  
-- NumPy is the backbone of:  
-  - Machine Learning  
-  - Data Analysis  
-  - Scientific Computing in Python  
 
 
 ---
