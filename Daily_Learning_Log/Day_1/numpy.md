@@ -1,7 +1,8 @@
-<!-- Animated Typing Banner for NUMPY -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&color=800080&lines=NUMPY" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&color=800080&lines=NUMPY" 
+       style="display: block; margin: auto;" />
 </p>
+
 
 ---
 
