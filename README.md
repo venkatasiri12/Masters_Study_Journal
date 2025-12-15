@@ -2,9 +2,11 @@
 
 **Documenting how understanding is built — one deliberate step at a time.**
 
+
 ---
 
-## 📖 What This Repository Represents
+
+## 🌱 What This Journal Is About
 
 This repository is a **living study journal** maintained throughout my Master’s program. It captures my learning as it unfolds — including exploration, mistakes, refinements, and insights — rather than only polished outcomes.
 
