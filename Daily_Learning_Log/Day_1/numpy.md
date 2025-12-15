@@ -26,6 +26,7 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 ✅ Primarily used for system-level programming, operating systems, drivers, and performance-critical software.
 
+
 **⏭️ Python:**  
 - Simpler programming language
 
@@ -44,9 +45,7 @@ Initially, **Python** was considered a slow programming language, this made it u
 
 - Python supports versatile data structures like Lists, tuples, dictionaries, sets  
 
-- Even then, translating high-level Python code into machine instructions is time-consuming  
-
-- Pure Python becomes slow - while handling huge data -> Because of this high layer of abstraction
+- Even then, translating high-level Python code into machine instructions is time-consuming => Because of this high layer of abstraction
 
 
 ---
