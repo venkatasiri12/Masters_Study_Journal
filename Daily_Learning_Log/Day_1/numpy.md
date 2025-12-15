@@ -14,21 +14,20 @@
 
 ## ⚡ Background: Python vs C
 
-Initially, **Python** was considered a slow programming language, especially for computation-heavy tasks. This made it unsuitable for **Machine Learning** and large-scale numerical computation in its early days.  
+Initially, **Python** was considered a slow programming language, this made it unsuitable for **Machine Learning**.
 
-Python is **not a system-level language** like C. 
 
 ## Comparing **C vs Python**:
 
 **🖥️ C (Dennis Ritchie’s philosophy):**  
-- Manual memory management  
-- Low-level data handling  
-- Direct interaction with hardware  
+⏭️ Manual memory management  
+⏭️ Low-level data handling  
+⏭️ Direct interaction with hardware  
 
 ✅ Primarily used for system-level programming, operating systems, drivers, and performance-critical software.
 
 **🐍 Python:**  
-⏭️ Designed for simplicity and developer productivity  
+⏭️ Simpler programming language
 
 ⏭️ High-level abstractions → write less code, focus on logic 
 
@@ -47,16 +46,13 @@ Python is **not a system-level language** like C.
 
 Python supports versatile and flexible data structures:  
 ✨ Lists, tuples, dictionaries, sets  
-
-But this flexibility comes at a cost:  
-✨ Translating high-level Python code into machine instructions is time-consuming  
-✨ Pure Python becomes inefficient for huge volumes of data  
-
-❌ Python alone was unsuitable for **Machine Learning** and **scientific computing** where performance is critical.
+✨ Even then, translating high-level Python code into machine instructions is time-consuming  
+✨ Pure Python becomes slow - while handling huge data 
 
 
 ---
 
+##❌ Python alone was unsuitable for **Machine Learning**.
 
 ### 💡 The Solution: NumPy
 
@@ -64,7 +60,7 @@ But this flexibility comes at a cost:
 
 ✅ Not a built-in Python package  
 ✅ Implemented in **C and Fortran** → extremely fast  
-✅ Enables **Python to handle large-scale numerical computation**
+✅ Enables **Python to handle huge data fastly by Brings **C-level speed** to Python  **
 
 
 ---
@@ -94,7 +90,6 @@ NumPy arrays are:
 Python alone was too slow for Machine Learning.  
 
 **NumPy**:  
-- Eliminates performance bottlenecks  
 - Brings **C-level speed** to Python  
 - Makes Python practical for **modern ML and Data Science**  
 
