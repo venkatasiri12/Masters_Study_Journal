@@ -8,16 +8,13 @@
 
 ## 🌱 What This Journal Is About
 
-This repository is a **living study journal** maintained throughout my Master’s program. It captures my learning as it unfolds — including exploration, mistakes, refinements, and insights — rather than only polished outcomes.
-
-The intent is simple but deliberate: to make the **process of learning visible**.
 Welcome to my Masters Study Journal — a colorful, evolving space where learning is treated as a process, not a performance.
 
 This repository is a **living study journal** maintained throughout my Master’s program.
 
 It captures my learning as it unfolds — including exploration, mistakes, refinements, and insights — rather than only polished outcomes.
 
-It is intentionally expressive, visual, and honest — because real learning is rarely linear.
+The intent is simple but deliberate: to make the **process of learning visible**.
 
 ---
 
